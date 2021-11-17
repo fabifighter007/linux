@@ -177,7 +177,7 @@ discussed in greater detail later in this document.  Consider:
   users over to the in-tree version.
 
 - Contribution of code is the fundamental action which makes the whole
-  process work.  By contributing your code you can add new functionality to
+  process work.  By contributing your code, you can add new functionality to
   the kernel and provide capabilities and examples which are of use to
   other kernel developers.  If you have developed code for Linux (or are
   thinking about doing so), you clearly have an interest in the continued
